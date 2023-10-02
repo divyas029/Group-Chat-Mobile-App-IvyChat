@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "363542702308",
+    "project_id": "ivychat-cb605",
+    "storage_bucket": "ivychat-cb605.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363542702308:android:78d3052dd88a038e0224f1",
+        "android_client_info": {
+          "package_name": "com.ivychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363542702308-fiejmcemn4b5i000ik42s1pvlc22l0ra.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ivychat",
+            "certificate_hash": "0ce249f2f3d74d7a881f6ea78ec37057189695ea"
+          }
+        },
+        {
+          "client_id": "363542702308-7e4oq2fb221er52jqg7m9je48i9not8i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaoqaD-4Zvcm0yrNN_hMzDBDttaL05WTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "363542702308-7e4oq2fb221er52jqg7m9je48i9not8i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
