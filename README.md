@@ -1,16 +1,11 @@
-# ivychat
+# Group Chat Mobile Application (IvyChat)
 
-A new Flutter project.
+IvyChat is a real-time Android group chat application developed with Flutter. It allows users to create or join group conversations and exchange messages. User and group data are securely stored in Firebase Cloud Storage.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Real-time group and personal chats.
+- Create or join chat groups.
+- Firebase integration for data management.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Have fun chatting with IvyChat!
